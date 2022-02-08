@@ -1,0 +1,5 @@
+debug off
+stopwords on
+load tracks_test.txt
+preprocess
+mcw ancora

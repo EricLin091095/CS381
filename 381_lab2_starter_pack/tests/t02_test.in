@@ -1,0 +1,6 @@
+debug off
+stopwords on
+length 10
+load tracks_test.txt
+preprocess
+sequence ancora
